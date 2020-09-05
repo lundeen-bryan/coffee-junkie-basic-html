@@ -8,8 +8,14 @@
 
 ---
 
+### Live Demo
+
+[View this project on Netlify](https://lundeen-bryan-coffee-junkie.netlify.app/)
+
+---
+
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Sections headers used to reference location of readme.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
